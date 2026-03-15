@@ -21,6 +21,7 @@ Visual components and Python
 
 ## Program
 NAME: PRIYADHARSHINI.E     REF NO: 212225040318  SLOT NO:T1-I5
+```
 arr_time=float(input("Enter the mean inter arrival time of objects from feeder (in secs):")) 
 ser_time1=float(input("Enter the mean inter service time of lathe machine 1 (in secs):")) 
 ser_time2=float(input("Enter the mean inter service time of lathe machine 2 (in secs):")) 
@@ -59,8 +60,9 @@ if(lam<mu1) and (lam<mu2) and (lam<mu3):
 else: 
     print("Warning! Objects overflow will happen in the conveyor") 
 print("--------------------------------------------------------------")
-
+```
 ## Output
 <img width="821" height="449" alt="Screenshot 2026-03-13 152107" src="https://github.com/user-attachments/assets/4e8dd1d2-1b40-4fc2-9681-b2f7f63cc57b" />
 ## Result
+
 The average number of material in the system and in the conveyor and waiting time are successfully found.
